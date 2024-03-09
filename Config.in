@@ -1,0 +1,4 @@
+config BR2_PACKAGE_SUFOTA
+	bool "SUFOTA"
+	help
+	  This package provides a custom C program for handling SUFOTA.
