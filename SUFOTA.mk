@@ -5,7 +5,7 @@
 ################################################################################
 
 SUFOTA_VERSION = 1.0
-SUFOTA_SITE = https://github.com/RanaAnwar1/SUFOTA
+SUFOTA_SITE = https://github.com/RanaAnwar1/SUFOTA-C
 SUFOTA_SITE_METHOD = git
 
 define SUFOTA_BUILD_CMDS
